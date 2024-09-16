@@ -22,6 +22,7 @@
 <br>
 
 
+
 </div>
 <div align="left">
 <h3>Down to earth, chill gaymer. I want to change the world with code.</h3>
@@ -32,4 +33,4 @@
   <li>💻📧📨 - I love working remotely. I am honest and productive and work well without supervision.</li>
 </ul>
 </div>
-<div align="right"><img src="https://ibb.co/7Q5xpd9" alt="steven" border="0"</div>
+<div align="right">![large](https://github.com/user-attachments/assets/f3506a6b-96d0-4c35-bb0c-b33dcfe92679)</div>

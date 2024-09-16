@@ -2,7 +2,7 @@
 </h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-![Static Badge](https://img.shields.io/badge/uses?style=plastic&logo=alienware)
+
 
 ![GitHub User's stars](https://img.shields.io/github/stars/stevenrugg)
 <a href="https://twitter.com/stevensupergeek" ><img src="https://img.shields.io/twitter/follow/stevensupergeek.svg?style=social" /> </a>
@@ -20,9 +20,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 <div style="text-align: left;">
-<p style="text-align: left;">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)<a href="facebook.com/stevenrugg></a></p>
+<p style="text-align: left;"><a href="facebook.com/stevenrugg><img src="![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)"/></a></p>
 <br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white), 
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <br>
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 </div><br>

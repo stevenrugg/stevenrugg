@@ -5,6 +5,7 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/stevenrugg)
 <a href="https://twitter.com/stevensupergeek" ><img src="https://img.shields.io/twitter/follow/stevensupergeek.svg?style=social" /> </a>
+![GitHub followers](https://img.shields.io/github/followers/stevenrugg)
 <br>
 
 

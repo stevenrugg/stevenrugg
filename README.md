@@ -1,6 +1,6 @@
 <h1 align="center">Seattle Super Geek
 </h1>
-<div style="text-align: center;">
+<div style="text-align: center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 
@@ -22,7 +22,7 @@
 <br>
 
 
-
+</div>
 
 <h3>Down to earth, chill gaymer. I want to change the world with code.</h3>
 <ul style="text-align: left;">

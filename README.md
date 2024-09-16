@@ -23,7 +23,7 @@
 
 
 </div>
-
+<div align="left">
 <h3>Down to earth, chill gaymer. I want to change the world with code.</h3>
 <ul style="text-align: left;">
   <li>💁‍♂️🧚 - I'm a bit sassy, I'm straightforward but polite.</li>
@@ -31,3 +31,5 @@
   <li>🏋️🏂🏌️‍♂️🏅 - Gotta stay fit!</li>
   <li>💻📧📨 - I love working remotely. I am honest and productive and work well without supervision.</li>
 </ul>
+</div>
+<div align="right"><img src="https://i.bb.co/vhGCd6t/IMG-0013.png" alt="steven" border="0"</div>

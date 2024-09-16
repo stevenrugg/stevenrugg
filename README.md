@@ -32,4 +32,4 @@
   <li>💻📧📨 - I love working remotely. I am honest and productive and work well without supervision.</li>
 </ul>
 </div>
-<div align="right"><img src="https://i.bb.co/vhGCd6t/IMG-0013.png" alt="steven" border="0"</div>
+<div align="right"><img src="https://ibb.co/7Q5xpd9" alt="steven" border="0"</div>

@@ -22,7 +22,7 @@
 <br>
 
 
-</div>
+
 
 <h3>Down to earth, chill gaymer. I want to change the world with code.</h3>
 <ul style="text-align: left;">

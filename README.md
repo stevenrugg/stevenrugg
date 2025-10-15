@@ -35,5 +35,5 @@
 </ul>
 </div>
 <div align="center">
-  <img src="https://www.canva.com/design/DAG15vT0U90/DVXS3fmgGUQ1OtEuAN3EGg/watch?utm_content=DAG15vT0U90&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h01be1f0ec6" alt="logo"/>
+  <img src="https://www.canva.com/design/DAG15vT0U90/pP65r5Vf2gcOaYLjWHQHQA/edit?utm_content=DAG15vT0U90&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="logo"/>
 </div>

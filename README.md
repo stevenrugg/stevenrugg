@@ -34,6 +34,6 @@
   <li>💻📧📨 - I love working remotely. I am honest and productive and work well without supervision.</li>
 </ul>
 </div>
-<div align="right">
-  
+<div align="center">
+  <img src="https://www.canva.com/design/DAG15vT0U90/DVXS3fmgGUQ1OtEuAN3EGg/watch?utm_content=DAG15vT0U90&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h01be1f0ec6" alt="logo"/>
 </div>
